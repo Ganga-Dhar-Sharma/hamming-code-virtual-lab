@@ -1,0 +1,46 @@
+:root {
+  /* Brand Theme Colors */
+  --bg-cream: #FFF8EB;
+  --bg-cream-card: #FFFFFF;
+  --bg-cream-subtle: #FDF3DF;
+  --text-indigo: #25264F;
+  --text-indigo-muted: #56587A;
+  --dark-blue: #34449A;
+  --lavender: #BBA9FF;
+  --lavender-light: #ECE7FF;
+
+  /* Parity & Data Group Standard Colors */
+  --p1-coral: #FF777F;
+  --p1-coral-light: #FFE8E9;
+  --p2-sky: #84DCFF;
+  --p2-sky-light: #E7F8FF;
+  --p4-yellow: #FFDA70;
+  --p4-yellow-light: #FFF8DF;
+  --data-mint: #A8EBCB;
+  --data-mint-light: #E8FAF1;
+
+  /* Status & Glitch */
+  --glitch-red: #FF4D6D;
+  --glitch-purple: #8338EC;
+  --glitch-spark: #FF0055;
+  --success-green: #2EC4B6;
+  --border-indigo: #25264F;
+
+  /* Shadows & Elevations */
+  --card-border: 2px solid #25264F;
+  --card-shadow: 0 4px 0 #25264F;
+  --card-shadow-lg: 0 8px 0 #25264F;
+  --card-shadow-hover: 0 6px 0 #25264F;
+  --btn-shadow: 0 4px 0 #25264F;
+  --btn-shadow-active: 0 1px 0 #25264F;
+
+  /* Radii */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Typography */
+  --font-ui: 'Nunito', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', Consolas, Monaco, monospace;
+}
